@@ -28,32 +28,32 @@
 ```yaml
 Ronin: Sarath Pradeep
 Path: Software Development & Engineering
-Current_Quest: Mastering Full-Stack Architecture & System Design
+Current_Quest: Mastering Full-Stack Architecture & AI Solutions
 Philosophy: "Measure twice, cut once. Code cleanly, refactor endlessly."
 Status: Sharpening skills daily 🗡️
 "Fast is fine, but accuracy is everything. In code, as in combat, precision wins."
 
-🌊 Armory & Campaigns (Featured Projects)
+⚔️ Allied Campaigns & Conquests (Featured Projects)
 🎏 Aether Hub - AI-based Education
 Collaborative Quest with @AjaiKumarDY
 
-An intelligent, AI-powered educational platform designed to enhance modern learning workflows, streamline study resources, and empower students through smart automation.
+An intelligent, AI-powered educational platform engineered to enhance learning workflows, centralize academic resources, and empower students through automated intelligence.
 
 Role: Co-Developer / Contributor
 
-Focus: AI Integration, Educational Tech, Full-Stack Architecture
+Tech Stack: Full-Stack Architecture, AI Integration, Web Technologies
 
 Repository: AjaiKumarDY/Aether-Hub---Ai-based-Education-
 
 🪭 Personal Conquests
 📜 Featured Personal Project
-A flagship project built to solve real-world problems with scalable code and optimized performance.
+A flagship project built to solve real-world technical problems with scalable architecture and clean code execution.
 
-Focus: Full-Stack Development / Systems Design
+Focus: Software Engineering & Systems Design
 
 Tech Used: JavaScript, Node.js, React
 
-(Visit my Repositories Tab to forge into all my personal builds.)
+(Explore all my open-source work in my Repositories Tab.)
 
 🗡️ Weapons & Armour (Tech Stack)
 🔴 Core Blades (Languages)
