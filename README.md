@@ -31,7 +31,6 @@
 ### 🗡️ Primary Blade Mastery (Frontend Combat)
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=E50914" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=E50914" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
