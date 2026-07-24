@@ -10,7 +10,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/SarathPradeep2005">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=24&pause=1000&color=E50914&center=true&vCenter=true&width=650&lines=Welcome+to+the+Code+Dojo...;Path+of+the+Digital+Ronin;Mastermind+%26+Full-Stack+Developer;Crafting+Digital+Blades+%7C+Web+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=24&pause=1000&color=E50914&center=true&vCenter=true&width=650&lines=Welcome+to+the+Code+Dojo...;Path+of+the+Digital+Ronin;Mastermind+%26+Full-Stack+Developer;Crafting+Digital+Blades+%7C+AI+%26+Web+Dev" alt="Typing SVG" />
   </a>
 
   <p><em>"There is nothing in this world that cannot be cut. Precision in code, perfection in blade." — Bushido Code</em></p>
@@ -47,23 +47,24 @@
 
 ---
 
-## ⛩️ Mastered Clan Artifacts (Featured Projects)
+## ⛩️ Mastered Clan Artifacts & Alliances (Featured Projects)
 
-   _________________________________________________________
-  /                                                         \
- |   [01] Web Applications ── Custom Digital Creations      |
- |        Status: ACTIVE | Power Level: Overwhelming        |
- |                                                         |
- |   [02] Software Systems ── High Precision Code Matrix    |
- |        Status: ACTIVE | Defense Seal: Unbroken           |
-  \_________________________________________________________/
+   _________________________________________________________________
+  /                                                                 \
+ |   [01] Aether-Hub ── AI-Based Education Platform (Collaborative)  |
+ |        Status: ACTIVE | Power Level: Overwhelming                 |
+ |                                                                 |
+ |   [02] Web Applications ── Custom Digital Creations               |
+ |        Status: ACTIVE | Defense Seal: Unbroken                    |
+  \_________________________________________________________________/
 
 <details>
   <summary>🔍 <strong>Click to Inspect Samurai Scrolls (Project Details)</strong></summary>
   <br/>
 
-  - **💻 Full-Stack Development**: Building high-performance, responsive web interfaces and applications.
-  - **⚡ Clean Code Architecture**: Focus on speed, efficiency, and robust digital solutions.
+  - 🤖 **[Aether-Hub](https://github.com/AjaiKumarDY/Aether-Hub---Ai-based-Education-)**: A joint alliance project—an advanced AI-powered educational hub built for next-generation learning ecosystems.
+  - 💻 **Full-Stack Development**: Building high-performance, responsive web interfaces and applications.
+  - ⚡ **Clean Code Architecture**: Focus on speed, efficiency, and robust digital solutions.
 </details>
 
 ---
