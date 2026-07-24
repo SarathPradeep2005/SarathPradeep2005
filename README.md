@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner / Header -->
-<h1>⚔️ SARATH PRADEEP ⚔️</h1>
+<h1> SARATH PRADEEP </h1>
 <p><i>"The way of the developer is found in continuous mastery."</i></p>
 
 <!-- Typing Animation / Subtitle -->
