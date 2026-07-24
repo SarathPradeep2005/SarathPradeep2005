@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner / Header -->
-<h1> SARATH PRADEEP </h1>
+<h1>🥷 SARATH PRADEEP 🥷</h1>
 <p><i>"The way of the developer is found in continuous mastery."</i></p>
 
 <!-- Typing Animation / Subtitle -->
@@ -31,3 +31,39 @@ Path: Software Development & Engineering
 Current_Quest: Mastering Full-Stack Architecture & System Design
 Philosophy: "Measure twice, cut once. Code cleanly, refactor endlessly."
 Status: Sharpening skills daily 🗡️
+"Fast is fine, but accuracy is everything. In code, as in combat, precision wins."
+
+🌊 Armory & Campaigns (Featured Projects)
+🎏 Aether Hub - AI-based Education
+Collaborative Quest with @AjaiKumarDY
+
+An intelligent, AI-powered educational platform designed to enhance modern learning workflows, streamline study resources, and empower students through smart automation.
+
+Role: Co-Developer / Contributor
+
+Focus: AI Integration, Educational Tech, Full-Stack Architecture
+
+Repository: AjaiKumarDY/Aether-Hub---Ai-based-Education-
+
+🪭 Personal Conquests
+📜 Featured Personal Project
+A flagship project built to solve real-world problems with scalable code and optimized performance.
+
+Focus: Full-Stack Development / Systems Design
+
+Tech Used: JavaScript, Node.js, React
+
+(Visit my Repositories Tab to forge into all my personal builds.)
+
+🗡️ Weapons & Armour (Tech Stack)
+🔴 Core Blades (Languages)
+🛡️ Shields & Frameworks (Tools & Tech)
+📈 Battle Scroll (GitHub Stats)
+
+
+📜 Bushido Code (GitHub Activity)
+Plaintext
+ [x] Commit daily to build muscle memory
+ [x] Clean architecture over hasty implementations
+ [ ] Master the art of open-source contribution
+⛩️ Send a Signal (Connect With Me)
