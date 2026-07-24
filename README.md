@@ -58,7 +58,9 @@ Tech Used: JavaScript, Node.js, React
 🗡️ Weapons & Armour (Tech Stack)
 🔴 Core Blades (Languages)
 🛡️ Shields & Frameworks (Tools & Tech)
-📈 Battle Scroll (GitHub Stats)
+📈 Battle Scroll (GitHub Stats & Contributions)
+
+
 
 
 📜 Bushido Code (GitHub Activity)
